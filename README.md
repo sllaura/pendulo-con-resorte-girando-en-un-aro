@@ -1,0 +1,1 @@
+# pendulo-con-resorte-girando-en-un-aro
